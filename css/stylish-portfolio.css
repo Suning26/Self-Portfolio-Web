@@ -127,7 +127,7 @@ body {
 /* Services */
 
 .services {
-  background: #7fbbda;
+  background: #1C1C1C;
   padding: 50px 0;
   color: #ffffff;
 }
@@ -181,7 +181,7 @@ i.service-icon {
 
 .call-to-action {
   color: #ffffff;
-  background: #0a5175;
+  background: #52433D;
   padding: 50px 0;
 }
 
@@ -211,11 +211,11 @@ footer {
 }
 
 i.scroll {
-  color: #333333;
+  color: #1C1C1C;
 }
 
 i.scroll:hover {
-  color: #0a5175;
+  color: #52433D;
 }
 /* Responsive */
 

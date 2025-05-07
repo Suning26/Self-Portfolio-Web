@@ -322,13 +322,13 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #64363C;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #52433D;
   text-decoration: underline;
 }
 
@@ -746,7 +746,7 @@ samp {
 code {
   padding: 2px 4px;
   font-size: 90%;
-  color: #c7254e;
+  color: #64363C;
   white-space: nowrap;
   background-color: #f9f2f4;
   border-radius: 4px;
